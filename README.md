@@ -1,5 +1,6 @@
 # PIL
-Copyright @ sunshuang618@gmail.com\n
+Copyright @ sunshuang618@gmail.com
+
 This is a Privacy Identity Lottery model which mainly utilizing the underlying logic of the Grabled Circuits
 Includes three entitites: (1) Server. Responsible for generating the pesudo-random function, garbled values and a proof message 'proofs'.
 (2) Client. There could be multiple clients, but the algorithm operates on a one-to-one basis. Responsible for calculating the garbled values and the validation message 'PROOF'.
