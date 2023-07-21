@@ -1,0 +1,31 @@
+﻿  main.c
+D:\Programfile\vsworks\PIL\main.c(62,10): warning C4101: “de_tag”: 未引用的局部变量
+D:\Programfile\vsworks\PIL\main.c(149,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Programfile\vsworks\PIL\main.c(162,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Programfile\vsworks\PIL\main.c(453,2): warning C4013: “rsatest_ecrypt”未定义；假设外部返回 int
+D:\Programfile\vsworks\PIL\main.c(500,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\Programfile\vsworks\PIL\main.c(543,27): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(544,26): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(555,27): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(556,26): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(567,27): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(568,26): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(579,27): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(580,26): warning C4090: “函数”: 不同的“const”限定符
+D:\Programfile\vsworks\PIL\main.c(680,2): warning C4013: “rsatest_decrypt”未定义；假设外部返回 int
+D:\Programfile\vsworks\PIL\main.c(723,7): warning C4101: “a”: 未引用的局部变量
+  rsatest.c
+D:\Programfile\vsworks\PIL\rsatest.c(18,1): warning C4029: 声明的形参表不同于定义
+D:\Programfile\vsworks\PIL\rsatest.c(38,33): warning C4047: “函数”:“int”与“void *”的间接级别不同
+D:\Programfile\vsworks\PIL\rsatest.c(38,29): warning C4024: “BN_generate_prime”: 形参和实参 3 的类型不同
+D:\Programfile\vsworks\PIL\rsatest.c(39,33): warning C4047: “函数”:“int”与“void *”的间接级别不同
+D:\Programfile\vsworks\PIL\rsatest.c(39,29): warning C4024: “BN_generate_prime”: 形参和实参 3 的类型不同
+D:\Programfile\vsworks\PIL\rsatest.c(31,8): warning C4101: “show”: 未引用的局部变量
+D:\Programfile\vsworks\PIL\rsatest.c(33,9): warning C4101: “j”: 未引用的局部变量
+D:\Programfile\vsworks\PIL\rsatest.c(33,6): warning C4101: “i”: 未引用的局部变量
+D:\Programfile\vsworks\PIL\rsatest.c(29,6): warning C4101: “length”: 未引用的局部变量
+D:\Programfile\vsworks\PIL\rsatest.c(33,12): warning C4101: “t”: 未引用的局部变量
+D:\Programfile\vsworks\PIL\rsatest.c(84,1): warning C4026: 使用形参表声明的函数
+  正在生成代码...
+D:\Programfile\vsworks\PIL\main.c(142): warning C4716: “int2hex”: 必须返回一个值
+  PIL.vcxproj -> D:\Programfile\vsworks\PIL\x64\Debug\PIL.exe
